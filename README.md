@@ -57,5 +57,3 @@ In this window, you will notice that there is a textbox, and there you will put 
 
 After pressing send, the window will be closed.
 
-![Image1](https://github.com/user-attachments/assets/dc7c7f26-003f-4394-826a-76b4645557bc)
-
